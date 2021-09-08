@@ -26,8 +26,6 @@ public class MainActivity extends AppCompatActivity {
     private RadioButton masculinoRb;
     private RadioButton femininoRb;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
